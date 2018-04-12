@@ -1,6 +1,6 @@
 {
   "name": "instagram-crawling",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Simple Instagram Crawling without using public API",
   "main": "src/InstagramCrawler.js",
   "dependencies": {
