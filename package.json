@@ -1,13 +1,12 @@
 {
   "name": "instagram-crawling",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Simple Instagram Crawling without using public API",
   "main": "src/InstagramCrawler.js",
   "dependencies": {
     "async": "^2.6.0",
     "axios": "^0.18.0",
     "querystring": "^0.2.0",
-    "request": "^2.85.0",
     "set-cookie-parser": "^2.1.1"
   },
   "devDependencies": {},
